@@ -14,4 +14,5 @@ they are added in alphabetical order in the list, and are added with a website.
 
 Name | Website | City
 ---- | ------- | ----
+Eyeo | https://eyeo.com/ | Cologne / Berlin
 Travis CI | https://travis-ci.org | Berlin
