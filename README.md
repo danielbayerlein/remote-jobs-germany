@@ -15,4 +15,5 @@ they are added in alphabetical order in the list, and are added with a website.
 Name | Website | City
 ---- | ------- | ----
 Eyeo | https://eyeo.com/ | Cologne / Berlin
+Giant Swarm | https://giantswarm.io | Cologne
 Travis CI | https://travis-ci.org | Berlin
