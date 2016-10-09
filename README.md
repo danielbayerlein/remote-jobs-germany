@@ -14,4 +14,4 @@ they are added in alphabetical order in the list, and are added with a website.
 
 Name | Website | City
 ---- | ------- | ----
-Example | http://example.com | Berlin
+Travis CI | https://travis-ci.org | Berlin
