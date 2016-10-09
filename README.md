@@ -14,7 +14,7 @@ they are added in alphabetical order in the list, and are added with a website.
 
 Name | Website | City
 ---- | ------- | ----
-Eyeo | https://eyeo.com/ | Cologne / Berlin
+Eyeo | https://eyeo.com | Cologne / Berlin
 Giant Swarm | https://giantswarm.io | Cologne
 SPORT1 | http://www.sport1.de | Ismaning (Munich)
 Travis CI | https://travis-ci.org | Berlin
