@@ -16,5 +16,6 @@ Name | Website | City
 aboalarm | https://www.aboalarm.de | Munich
 Eyeo | https://eyeo.com | Cologne / Berlin
 Giant Swarm | https://giantswarm.io | Cologne
+LaterPay | https://www.laterpay.net | Munich
 SPORT1 | http://www.sport1.de | Ismaning (Munich)
 Travis CI | https://travis-ci.org | Berlin
