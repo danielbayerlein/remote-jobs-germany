@@ -19,3 +19,4 @@ Giant Swarm | https://giantswarm.io | Cologne
 LaterPay | https://www.laterpay.net | Munich
 SPORT1 | http://www.sport1.de | Ismaning (Munich)
 Travis CI | https://travis-ci.org | Berlin
+Uberspace | https://uberspace.de | Mainz
