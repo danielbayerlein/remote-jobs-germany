@@ -18,6 +18,7 @@ Eyeo | https://eyeo.com | Cologne / Berlin
 Giant Swarm | https://giantswarm.io | Cologne
 Kellerkinder | https://www.kellerkinder.de | Hockenheim
 LaterPay | https://www.laterpay.net | Munich
+SocialHub | https://socialhub.io | Ingolstadt
 SPORT1 | http://www.sport1.de | Ismaning (Munich)
 Travis CI | https://travis-ci.org | Berlin
 Uberspace | https://uberspace.de | Mainz
