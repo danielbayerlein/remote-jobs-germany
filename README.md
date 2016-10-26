@@ -14,6 +14,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and
 Name | Website | City
 ---- | ------- | ----
 aboalarm | https://www.aboalarm.de | Munich
+BitMechanics | http://bitmechanics.de | Lindau (Lake Constance)
 Eyeo | https://eyeo.com | Cologne / Berlin
 Giant Swarm | https://giantswarm.io | Cologne
 Kellerkinder | https://www.kellerkinder.de | Hockenheim
