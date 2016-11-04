@@ -15,9 +15,9 @@ Name | Website | City
 ---- | ------- | ----
 aboalarm | https://www.aboalarm.de | Munich
 BitMechanics | http://bitmechanics.de | Lindau (Lake Constance)
-grandcentrix | https://www.grandcentrix.net | Cologne / Dortmund
 Eyeo | https://eyeo.com | Cologne / Berlin
 Giant Swarm | https://giantswarm.io | Cologne
+grandcentrix | https://www.grandcentrix.net | Cologne / Dortmund
 Kellerkinder | https://www.kellerkinder.de | Hockenheim
 LaterPay | https://www.laterpay.net | Munich
 SocialHub | https://socialhub.io | Ingolstadt
