@@ -20,6 +20,7 @@ Giant Swarm | https://giantswarm.io | Cologne
 grandcentrix | https://www.grandcentrix.net | Cologne / Dortmund
 Kellerkinder | https://www.kellerkinder.de | Hockenheim
 LaterPay | https://www.laterpay.net | Munich
+Lingoda | https://www.lingoda.de | Berlin
 SocialHub | https://socialhub.io | Ingolstadt
 SPORT1 | http://www.sport1.de | Ismaning (Munich)
 Travis CI | https://travis-ci.org | Berlin
