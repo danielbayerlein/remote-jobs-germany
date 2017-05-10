@@ -16,6 +16,7 @@ Name | Website | City
 aboalarm | https://www.aboalarm.de | Munich
 BitMechanics | http://bitmechanics.de | Lindau (Lake Constance)
 Eyeo | https://eyeo.com | Cologne / Berlin
+GetTechTalent | https://gettechtalent.com | Remote
 Giant Swarm | https://giantswarm.io | Cologne
 grandcentrix | https://www.grandcentrix.net | Cologne / Dortmund
 Kellerkinder | https://www.kellerkinder.de | Hockenheim
