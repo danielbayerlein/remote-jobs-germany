@@ -23,6 +23,7 @@ Kellerkinder | https://www.kellerkinder.de | Hockenheim
 komoot | https://www.komoot.de | Potsdam
 LaterPay | https://www.laterpay.net | Munich
 Lingoda | https://www.lingoda.de | Berlin
+ownCloud | https://owncloud.com | Nuremberg
 SocialHub | https://socialhub.io | Ingolstadt
 SPORT1 | http://www.sport1.de | Ismaning (Munich)
 Travis CI | https://travis-ci.org | Berlin
