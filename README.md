@@ -16,7 +16,7 @@ Name | Website | City
 aboalarm | https://www.aboalarm.de | Munich
 Actyx | https://www.actyx.io | Munich
 Eyeo | https://eyeo.com | Cologne / Berlin
-GetTechTalent | https://gettechtalent.com | Berlin
+GetTechTalent | http://www.gettechtalent.com | Berlin
 Giant Swarm | https://giantswarm.io | Cologne
 grandcentrix | https://www.grandcentrix.net | Cologne / Dortmund
 Kellerkinder | https://www.kellerkinder.de | Hockenheim
