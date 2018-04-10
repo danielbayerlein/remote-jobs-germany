@@ -26,6 +26,7 @@ Lingoda | https://www.lingoda.de | Berlin
 ownCloud | https://owncloud.com | Nuremberg
 SocialHub | https://socialhub.io | Ingolstadt
 SPORT1 | http://www.sport1.de | Ismaning (Munich)
+SuSE | http://www.suse.com | Nuremberg
 Travis CI | https://travis-ci.org | Berlin
 Uberspace | https://uberspace.de | Mainz
 virtualQ® | http://virtualq.io | Stuttgart
