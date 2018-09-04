@@ -16,6 +16,7 @@ Name | Website | City
 aboalarm | https://www.aboalarm.de | Munich
 Actyx | https://www.actyx.io | Munich
 Bayerischer Rundfunk | https://www.br.de | Munich
+easybill | https://www.easybill.de/ | Duesseldorf
 Eyeo | https://eyeo.com | Cologne / Berlin
 GetTechTalent | http://www.gettechtalent.com | Berlin
 Giant Swarm | https://giantswarm.io | Cologne
