@@ -29,6 +29,7 @@ LaterPay | https://www.laterpay.net | Munich
 Lingoda | https://www.lingoda.de | Berlin
 ownCloud | https://owncloud.com | Nuremberg
 SocialHub | https://socialhub.io | Ingolstadt
+SocialSweethearts | https://socialsweethearts.de | Munich
 SPORT1 | http://www.sport1.de | Ismaning (Munich)
 SuSE | http://www.suse.com | Nuremberg
 Travis CI | https://travis-ci.org | Berlin
