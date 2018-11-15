@@ -18,6 +18,7 @@ Actyx | https://www.actyx.io | Munich
 Bayerischer Rundfunk | https://www.br.de | Munich
 easybill | https://www.easybill.de/ | Duesseldorf
 Eyeo | https://eyeo.com | Cologne / Berlin
+FRONTASTIC | https://www.frontastic.cloud/ | Münster
 GetTechTalent | http://www.gettechtalent.com | Berlin
 Giant Swarm | https://giantswarm.io | Cologne
 grandcentrix | https://www.grandcentrix.net | Cologne / Dortmund
