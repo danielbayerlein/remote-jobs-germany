@@ -30,6 +30,7 @@ Kellerkinder | https://www.kellerkinder.de | Hockenheim
 komoot | https://www.komoot.de | Potsdam
 LaterPay | https://www.laterpay.net | Munich
 Lingoda | https://www.lingoda.de | Berlin
+Lyska | https://lyska.io | Offenbach
 ownCloud | https://owncloud.com | Nuremberg
 SocialHub | https://socialhub.io | Ingolstadt
 SocialSweethearts | https://socialsweethearts.de | Munich
