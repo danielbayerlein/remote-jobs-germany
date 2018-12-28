@@ -19,6 +19,7 @@ Actyx | https://www.actyx.io | Munich
 BackHub | https://backhub.co | Freiburg
 Bayerischer Rundfunk | https://www.br.de | Munich
 easybill | https://www.easybill.de/ | Duesseldorf
+Elastic | https://www.elastic.co/ | Berlin
 Eyeo | https://eyeo.com | Cologne / Berlin
 FRONTASTIC | https://www.frontastic.cloud | Münster
 GetTechTalent | http://www.gettechtalent.com | Berlin
