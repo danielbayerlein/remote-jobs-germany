@@ -18,6 +18,7 @@ aboalarm | https://www.aboalarm.de | Munich
 Actyx | https://www.actyx.io | Munich
 BackHub | https://backhub.co | Freiburg
 Bayerischer Rundfunk | https://www.br.de | Munich
+digitalminds.io | https://www.digitalminds.io | Berlin
 easybill | https://www.easybill.de/ | Duesseldorf
 Eyeo | https://eyeo.com | Cologne / Berlin
 FRONTASTIC | https://www.frontastic.cloud | Münster
