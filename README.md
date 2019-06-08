@@ -38,6 +38,7 @@ Lingoda | https://www.lingoda.de | Berlin
 Lyska | https://lyska.io | Offenbach
 ownCloud | https://owncloud.com | Nuremberg
 pimentaGROUP | https://pimentagroup.de | Münster
+SkedGo | https://skedgo.com/ | Nuremberg
 SocialHub | https://socialhub.io | Ingolstadt
 SocialSweethearts | https://socialsweethearts.de | Munich
 SPORT1 | http://www.sport1.de | Ismaning (Munich)
