@@ -44,6 +44,7 @@ SocialSweethearts | https://socialsweethearts.de | Munich
 SPORT1 | http://www.sport1.de | Ismaning (Munich)
 SuSE | http://www.suse.com | Nuremberg
 Travis CI | https://travis-ci.org | Berlin
+tyke.io | https://tyke.io/ | Hamburg
 Uberspace | https://uberspace.de | Mainz
 virtualQ® | http://virtualq.io | Stuttgart
 Zweitag | https://www.zweitag.de | Münster
