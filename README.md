@@ -37,6 +37,7 @@ LaterPay | https://www.laterpay.net | Munich
 Lingoda | https://www.lingoda.de | Berlin
 Lyska | https://lyska.io | Offenbach
 ownCloud | https://owncloud.com | Nuremberg
+PicDrop | https://www.picdrop.de | Berlin
 pimentaGROUP | https://pimentagroup.de | Münster
 SkedGo | https://skedgo.com/ | Nuremberg
 SocialHub | https://socialhub.io | Ingolstadt
