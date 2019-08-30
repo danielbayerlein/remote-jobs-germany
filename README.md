@@ -14,6 +14,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and
 Name | Website | City
 ---- | ------- | ----
 /gebrüderheitz | https://gebruederheitz.de/welcome | Mannheim
+1st Log AG | https://www.1st-log.com | Hünenberg (Zug - Schweiz)
 abiturma GbR | https://www.abiturma.de | Weil der Stadt (Stuttgart)
 Actyx | https://www.actyx.io | Munich
 BackHub | https://backhub.co | Freiburg
