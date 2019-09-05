@@ -50,4 +50,5 @@ Travis CI | https://travis-ci.org | Berlin
 tyke.io | https://tyke.io/ | Hamburg
 Uberspace | https://uberspace.de | Mainz
 virtualQ® | http://virtualq.io | Stuttgart
+YAZIO | https://www.yazio.com | Erfurt
 Zweitag | https://www.zweitag.de | Münster
