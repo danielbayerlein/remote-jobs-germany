@@ -40,6 +40,7 @@ Lyska | https://lyska.io | Offenbach
 ownCloud | https://owncloud.com | Nuremberg
 PicDrop | https://www.picdrop.de | Berlin
 pimentaGROUP | https://pimentagroup.de | Münster
+Proemion | https://www.proemion.com/de | Fulda
 SkedGo | https://skedgo.com/ | Nuremberg
 SocialHub | https://socialhub.io | Ingolstadt
 SocialSweethearts | https://socialsweethearts.de | Munich
