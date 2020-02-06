@@ -20,6 +20,7 @@ BackHub | https://backhub.co | Freiburg
 Bayerischer Rundfunk | https://www.br.de | Munich
 Blacksquared | https://changers.com/ | Berlin
 Bike Citizens | https://www.bikecitizens.net/ | Berlin
+BRYTER | https://bryter.io | Frankfurt a.M. / Berlin
 digitalminds.io | https://www.digitalminds.io | Berlin
 easybill | https://www.easybill.de/ | Duesseldorf
 Elastic | https://www.elastic.co/ | Berlin
