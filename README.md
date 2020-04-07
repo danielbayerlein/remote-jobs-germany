@@ -20,7 +20,7 @@ BackHub | https://backhub.co | Freiburg
 Bayerischer Rundfunk | https://www.br.de | Munich
 Blacksquared | https://changers.com/ | Berlin
 Bike Citizens | https://www.bikecitizens.net/ | Berlin
-BRYTER | https://bryter.io | Frankfurt a.M. / Berlin
+BRYTER | https://bryter.io | full remote, shared office spaces in Frankfurt a.M. / Berlin / London
 Crate.io | https://crate.io/ | Berlin
 Cultured Code | https://culturedcode.com/things/ | Stuttgart
 digitalminds.io | https://www.digitalminds.io | Berlin
