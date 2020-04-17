@@ -32,6 +32,7 @@ FRONTASTIC | https://www.frontastic.cloud | Münster
 GetTechTalent | http://www.gettechtalent.com | Berlin
 Giant Swarm | https://giantswarm.io | Cologne
 grandcentrix | https://www.grandcentrix.net | Cologne / Dortmund
+Implisense | https://implisense.com | Berlin
 Inpsyde | https://inpsyde.com | Bergisch Gladbach
 Instana | https://www.instana.com | Solingen
 Jaumo | http://careers.jaumo.com/ | Göppingen
