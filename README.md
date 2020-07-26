@@ -41,6 +41,7 @@ komoot | https://www.komoot.de | Potsdam
 LaterPay | https://www.laterpay.net | Munich
 Lingoda | https://www.lingoda.de | Berlin
 Lyska | https://lyska.io | Offenbach
+Open-Xchange | https://www.open-xchange.com | Bremen / Cologne / Dortmund / Hamburg / Olpe / Nuremberg
 ownCloud | https://owncloud.com | Nuremberg
 PicDrop | https://www.picdrop.de | Berlin
 pimentaGROUP | https://pimentagroup.de | Münster
