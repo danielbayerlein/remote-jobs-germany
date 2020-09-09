@@ -19,6 +19,7 @@ Eyeo | https://eyeo.com | Cologne / Berlin
 GetTechTalent | https://gettechtalent.com | Berlin
 Giant Swarm | https://giantswarm.io | Cologne
 grandcentrix | https://www.grandcentrix.net | Cologne / Dortmund
+Infarm | https://www.infarm.com/ | Berlin
 Kellerkinder | https://www.kellerkinder.de | Hockenheim
 komoot | https://www.komoot.de | Potsdam
 LaterPay | https://www.laterpay.net | Munich
