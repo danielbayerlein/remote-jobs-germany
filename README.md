@@ -33,6 +33,7 @@ GetTechTalent | http://www.gettechtalent.com | Berlin
 Giant Swarm | https://giantswarm.io | Cologne
 grandcentrix | https://www.grandcentrix.net | Cologne / Dortmund
 Implisense | https://implisense.com | Berlin
+Infarm | https://www.infarm.com/ | Berlin
 Inpsyde | https://inpsyde.com | Bergisch Gladbach
 Instana | https://www.instana.com | Solingen
 Jaumo | http://careers.jaumo.com/ | Göppingen
