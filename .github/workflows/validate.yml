@@ -1,0 +1,19 @@
+name: Validate
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+    - name: Validate links
+      run: |
+        gem install awesome_bot
+        awesome_bot README.md --allow-redirect --allow-ssl
