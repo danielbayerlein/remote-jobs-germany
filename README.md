@@ -27,6 +27,7 @@ Cultured Code | https://culturedcode.com/things/ | Stuttgart
 digitalminds.io | https://www.digitalminds.io | Berlin
 easybill | https://www.easybill.de/ | Duesseldorf
 Elastic | https://www.elastic.co/ | Berlin
+emetriq GmbH | https://www.emetriq.com/ | Hamburg
 ETECTURE | https://www.etecture.de | Frankfurt a.M. / Karlsruhe / Düsseldorf
 Eyeo | https://eyeo.com | Cologne / Berlin
 FRONTASTIC | https://www.frontastic.cloud | Münster
