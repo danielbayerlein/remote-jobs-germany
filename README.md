@@ -54,6 +54,7 @@ SocialHub | https://socialhub.io | Ingolstadt
 SocialSweethearts | https://socialsweethearts.de | Munich
 SPORT1 | http://www.sport1.de | Ismaning (Munich)
 SuSE | http://www.suse.com | Nuremberg
+Taledo | https://www.taledo.com | Berlin
 TIMOCOM | https://www.timocom.com | Düsseldorf (Erkrath)
 Travello | https://www.travello.audio | Pinneberg
 Travis CI | https://travis-ci.org | Berlin
