@@ -30,6 +30,7 @@ Elastic | https://www.elastic.co/ | Berlin
 emetriq GmbH | https://www.emetriq.com/ | Hamburg
 ETECTURE | https://www.etecture.de | Frankfurt a.M. / Karlsruhe / Düsseldorf
 Eyeo | https://eyeo.com | Cologne / Berlin
+finstreet. | https://www.finstreet.de | Münster
 FRONTASTIC | https://www.frontastic.cloud | Münster
 GetTechTalent | http://www.gettechtalent.com | Berlin
 Giant Swarm | https://giantswarm.io | Cologne
