@@ -16,6 +16,7 @@ Name | Website | City
 /gebrüderheitz | https://gebruederheitz.de/welcome | Mannheim
 abiturma GbR | https://www.abiturma.de | Weil der Stadt (Stuttgart)
 Actyx | https://www.actyx.io | Munich
+anwalt.de services AG | https://www.amwalt.de | Fully remote ; Offices in Nuremberg + Berlin
 BackHub | https://backhub.co | Freiburg
 Bayerischer Rundfunk | https://www.br.de | Munich
 Blacksquared | https://changers.com/ | Berlin
