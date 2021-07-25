@@ -32,6 +32,7 @@ emetriq GmbH | https://www.emetriq.com/ | Hamburg
 ETECTURE | https://www.etecture.de | Frankfurt a.M. / Karlsruhe / Düsseldorf
 Eyeo | https://eyeo.com | Cologne / Berlin
 finstreet. | https://www.finstreet.de | Münster
+Fireball Labs | https://www.fireballlabs.com | Fully remote ; Office in Bad Wiessee
 FRONTASTIC | https://www.frontastic.cloud | Münster
 GetTechTalent | http://www.gettechtalent.com | Berlin
 Giant Swarm | https://giantswarm.io | Cologne
