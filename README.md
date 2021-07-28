@@ -51,6 +51,7 @@ Open-Xchange | https://www.open-xchange.com | Bremen / Cologne / Dortmund / Hamb
 ownCloud | https://owncloud.com | Nuremberg
 PicDrop | https://www.picdrop.de | Berlin
 pimentaGROUP | https://pimentagroup.de | Münster
+porta-Unternehmensgruppe | https://porta.de | Full Remote - Offices in Aschaffenburg, Berlin, Porta Westfalica, München
 real.digital | https://www.real-digital.de | Cologne / Darmstadt
 SkedGo | https://skedgo.com/ | Nuremberg
 SocialHub | https://socialhub.io | Ingolstadt
