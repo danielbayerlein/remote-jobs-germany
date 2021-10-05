@@ -46,6 +46,7 @@ Kellerkinder | https://www.kellerkinder.de | Hockenheim
 komoot | https://www.komoot.de | Potsdam
 LaterPay | https://www.laterpay.net | Munich
 Lingoda | https://www.lingoda.de | Berlin
+Link11 | https://www.link11.com | Frankfurt / Hamburg
 Lyska | https://lyska.io | Offenbach
 Open-Xchange | https://www.open-xchange.com | Bremen / Cologne / Dortmund / Hamburg / Olpe / Nuremberg
 ownCloud | https://owncloud.com | Nuremberg
