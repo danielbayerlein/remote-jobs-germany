@@ -20,6 +20,7 @@ anwalt.de services AG | https://www.anwalt.de | Fully remote ; Offices in Nuremb
 BackHub | https://backhub.co | Freiburg
 Bayerischer Rundfunk | https://www.br.de | Munich
 Blacksquared | https://changers.com/ | Berlin
+Blocksize Capital GmbH | https://blocksize-capital.com | Frankfurt am Main
 Bike Citizens | https://www.bikecitizens.net/ | Berlin
 BRYTER | https://bryter.io | full remote, shared office spaces in Frankfurt a.M. / Berlin / London
 Conceptboard | https://conceptboard.com/ |Stuttgart
