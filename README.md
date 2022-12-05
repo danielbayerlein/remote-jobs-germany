@@ -54,7 +54,8 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | PicDrop                  | <https://www.picdrop.de>             | Berlin                                                                    |
 | pimentaGROUP             | <https://pimentagroup.de>            | Münster                                                                   |
 | porta-Unternehmensgruppe | <https://porta.de>                   | Full Remote - Offices in Aschaffenburg, Berlin, Porta Westfalica, München |
-| real.digital             | <https://www.real-digital.de>        | Cologne / Darmstadt                                                       |
+| real.digital             | <https://www.real-digital.de>        | Cologne / Darmstadt                                                       |\
+| Riverty                  | <https://www.riverty.com/de/>        | Münster                                                                   |
 | siticom                  | <https://siticom.online>             | Full Remote - On-Site in Weiterstadt, Köln, Dresden, Bruchsal, München    |
 | SkedGo                   | <https://skedgo.com/>                | Nuremberg                                                                 |
 | SocialHub                | <https://socialhub.io>               | Ingolstadt                                                                |
@@ -68,4 +69,3 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | virtualQ®                | <http://virtualq.io>                 | Stuttgart                                                                 |
 | YAZIO                    | <https://www.yazio.com>              | Erfurt                                                                    |
 | Zweitag                  | <https://www.zweitag.de>             | Münster                                                                   |
-| Riverty                  | <https://www.riverty.com/de/>        | Münster                                                                   |
