@@ -50,6 +50,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | Lingoda                  | https://www.lingoda.de             | Berlin                                                                    |
 | Link11                   | https://www.link11.com             | Frankfurt / Hamburg                                                       |
 | Lyska                    | https://lyska.io                   | Offenbach                                                                 |
+| L21s                     | https://www.l21s.de                | 100% Remote                                                               |
 | Open-Xchange             | https://www.open-xchange.com       | Bremen / Cologne / Dortmund / Hamburg / Olpe / Nuremberg                  |
 | ownCloud                 | https://owncloud.com               | Nuremberg                                                                 |
 | PicDrop                  | https://www.picdrop.de             | Berlin                                                                    |
