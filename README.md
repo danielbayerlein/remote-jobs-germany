@@ -39,6 +39,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | grandcentrix             | https://www.grandcentrix.net       | Cologne / Dortmund                                                        |
 | Hetzner Cloud GmbH       | https://www.hetzner-cloud.de/#jobs | Fully remote / On site Unterföhring                                       |
 | Implisense               | https://implisense.com             | Berlin                                                                    |
+| IMA Schelling Group      | https://www.imaschelling.com/      | Lübbecke                                                                  |
 | Infarm                   | https://www.infarm.com/            | Berlin                                                                    |
 | INNOQ                    | https://www.innoq.com/work         | Fully remote, office spaces in multiple cities                            |
 | Inpsyde                  | https://inpsyde.com                | Bergisch Gladbach                                                         |
