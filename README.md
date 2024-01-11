@@ -21,6 +21,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | Bike Citizens            | https://www.bikecitizens.net/      | Berlin                                                                    |
 | BRYTER                   | https://bryter.io                  | full remote, shared office spaces in Frankfurt a.M. / Berlin / London     |
 | BVV                      | https://bvv.de                     | Berlin                                                                    |
+| calimoto                 | https://calimoto.com               | Potsdam (2 mandatory office days per month)                               |
 | Conceptboard             | https://conceptboard.com/          | Stuttgart                                                                 |
 | Crate.io                 | https://crate.io/                  | Berlin                                                                    |
 | Cultured Code            | https://culturedcode.com/things/   | Stuttgart                                                                 |
