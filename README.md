@@ -21,6 +21,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | Bike Citizens            | https://www.bikecitizens.net/      | Berlin                                                                    |
 | BRYTER                   | https://bryter.io                  | full remote, shared office spaces in Frankfurt a.M. / Berlin / London     |
 | BVV                      | https://bvv.de                     | Berlin                                                                    |
+| cloud37                  | https://cloud37.de/karriere/       | Full Remote                                                               |
 | Conceptboard             | https://conceptboard.com/          | Stuttgart                                                                 |
 | Crate.io                 | https://crate.io/                  | Berlin                                                                    |
 | Cultured Code            | https://culturedcode.com/things/   | Stuttgart                                                                 |
@@ -37,6 +38,8 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | GetTechTalent            | http://www.gettechtalent.com       | Berlin                                                                    |
 | Giant Swarm              | https://giantswarm.io              | Cologne                                                                   |
 | grandcentrix             | https://www.grandcentrix.net       | Cologne / Dortmund                                                        |
+| lexoffice                | https://www.lexoffice.de/karriere/ | Full Remote, Offices in Freiburg im Breisgau, Leipzig, Berlin             |
+| Lexware                  | https://karriere.lexware.de        | Full Remote, Office in Freiburg im Breisgau                               |
 | Hetzner Cloud GmbH       | https://www.hetzner-cloud.de/#jobs | Fully remote / On site Unterföhring                                       |
 | Implisense               | https://implisense.com             | Berlin                                                                    |
 | Infarm                   | https://www.infarm.com/            | Berlin                                                                    |
