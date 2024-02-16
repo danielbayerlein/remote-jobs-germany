@@ -14,6 +14,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | abiturma GbR             | https://www.abiturma.de            | Weil der Stadt (Stuttgart)                                                |
 | Actyx                    | https://www.actyx.io               | Munich                                                                    |
 | anwalt.de services AG    | https://www.anwalt.de              | Fully remote ; Offices in Nuremberg + Berlin                              |
+| Artfiles New Media GmbH  | https://www.artfiles.de            | Hamburg                                                                   |
 | BackHub                  | https://backhub.co                 | Freiburg                                                                  |
 | Bayerischer Rundfunk     | https://www.br.de                  | Munich                                                                    |
 | Blacksquared             | https://changers.com/              | Berlin                                                                    |
@@ -21,6 +22,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | Bike Citizens            | https://www.bikecitizens.net/      | Berlin                                                                    |
 | BRYTER                   | https://bryter.io                  | full remote, shared office spaces in Frankfurt a.M. / Berlin / London     |
 | BVV                      | https://bvv.de                     | Berlin                                                                    |
+| calimoto                 | https://calimoto.com               | Potsdam (2 mandatory office days per month)                               |
 | cloud37                  | https://cloud37.de/karriere/       | Full Remote                                                               |
 | Conceptboard             | https://conceptboard.com/          | Stuttgart                                                                 |
 | Crate.io                 | https://crate.io/                  | Berlin                                                                    |
@@ -42,10 +44,12 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | Lexware                  | https://karriere.lexware.de        | Full Remote, Office in Freiburg im Breisgau                               |
 | Hetzner Cloud GmbH       | https://www.hetzner-cloud.de/#jobs | Fully remote / On site Unterföhring                                       |
 | Implisense               | https://implisense.com             | Berlin                                                                    |
+| IMA Schelling Group      | https://www.imaschelling.com/      | Lübbecke                                                                  |
 | Infarm                   | https://www.infarm.com/            | Berlin                                                                    |
 | INNOQ                    | https://www.innoq.com/work         | Fully remote, office spaces in multiple cities                            |
 | Inpsyde                  | https://inpsyde.com                | Bergisch Gladbach                                                         |
 | Instana                  | https://www.instana.com            | Solingen                                                                  |
+| inter.link GmbH          | https://inter.link                 | Berlin                                                                    | 
 | Jaumo                    | http://careers.jaumo.com/          | Göppingen                                                                 |
 | Kellerkinder             | https://www.kellerkinder.de        | Hockenheim                                                                |
 | komoot                   | https://www.komoot.de              | Potsdam                                                                   |
