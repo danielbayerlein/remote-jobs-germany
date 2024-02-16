@@ -14,6 +14,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | abiturma GbR             | https://www.abiturma.de            | Weil der Stadt (Stuttgart)                                                |
 | Actyx                    | https://www.actyx.io               | Munich                                                                    |
 | anwalt.de services AG    | https://www.anwalt.de              | Fully remote ; Offices in Nuremberg + Berlin                              |
+| Artfiles New Media GmbH  | https://www.artfiles.de            | Hamburg                                                                   |
 | BackHub                  | https://backhub.co                 | Freiburg                                                                  |
 | Bayerischer Rundfunk     | https://www.br.de                  | Munich                                                                    |
 | Blacksquared             | https://changers.com/              | Berlin                                                                    |
@@ -45,6 +46,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | INNOQ                    | https://www.innoq.com/work         | Fully remote, office spaces in multiple cities                            |
 | Inpsyde                  | https://inpsyde.com                | Bergisch Gladbach                                                         |
 | Instana                  | https://www.instana.com            | Solingen                                                                  |
+| inter.link GmbH          | https://inter.link                 | Berlin                                                                    | 
 | Jaumo                    | http://careers.jaumo.com/          | Göppingen                                                                 |
 | Kellerkinder             | https://www.kellerkinder.de        | Hockenheim                                                                |
 | komoot                   | https://www.komoot.de              | Potsdam                                                                   |
