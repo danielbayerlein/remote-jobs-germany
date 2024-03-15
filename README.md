@@ -39,6 +39,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | FRONTASTIC               | https://www.frontastic.cloud       | Münster                                                                   |
 | GetTechTalent            | http://www.gettechtalent.com       | Berlin                                                                    |
 | Giant Swarm              | https://giantswarm.io              | Cologne                                                                   |
+| Governikus               | https://governikus.de              | Full Remote, Offices in Bremen, Berlin, Cologne, Erfurt, Kempten          |
 | grandcentrix             | https://www.grandcentrix.net       | Cologne / Dortmund                                                        |
 | lexoffice                | https://www.lexoffice.de/karriere/ | Full Remote, Offices in Freiburg im Breisgau, Leipzig, Berlin             |
 | Lexware                  | https://karriere.lexware.de        | Full Remote, Office in Freiburg im Breisgau                               |
