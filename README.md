@@ -17,6 +17,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | Artfiles New Media GmbH  | https://www.artfiles.de            | Hamburg                                                                   |
 | BackHub                  | https://backhub.co                 | Freiburg                                                                  |
 | Bayerischer Rundfunk     | https://www.br.de                  | Munich                                                                    |
+| bilstein group           | https://bilsteingroup.com/en/      | Ennepetal                                                                 |
 | Blacksquared             | https://changers.com/              | Berlin                                                                    |
 | Blocksize Capital GmbH   | https://blocksize-capital.com      | Frankfurt am Main                                                         |
 | Bike Citizens            | https://www.bikecitizens.net/      | Berlin                                                                    |
