@@ -76,5 +76,6 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | Travis CI                | https://travis-ci.org              | Berlin                                                                    |
 | Uberspace                | https://uberspace.de               | Mainz                                                                     |
 | virtualQ®                | http://virtualq.io                 | Stuttgart                                                                 |
+| Wolt                     | https://careers.wolt.com/          | Hybrid & Remote - Offices in Berlin, München, Köln, Hamburg and Frankfurt |
 | YAZIO                    | https://www.yazio.com              | Erfurt                                                                    |
 | Zweitag                  | https://www.zweitag.de             | Münster                                                                   |
