@@ -59,6 +59,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | Link11                   | https://www.link11.com             | Frankfurt / Hamburg                                                       |
 | Lyska                    | https://lyska.io                   | Offenbach                                                                 |
 | L21s                     | https://www.l21s.de                | 100% Remote                                                               |
+| New Work SE              | https://www.new-work.se/en/career  | Full remote possible - Office in Hamburg                                  |
 | Open-Xchange             | https://www.open-xchange.com       | Bremen / Cologne / Dortmund / Hamburg / Olpe / Nuremberg                  |
 | ownCloud                 | https://owncloud.com               | Nuremberg                                                                 |
 | PicDrop                  | https://www.picdrop.de             | Berlin                                                                    |
@@ -77,5 +78,6 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | Travis CI                | https://travis-ci.org              | Berlin                                                                    |
 | Uberspace                | https://uberspace.de               | Mainz                                                                     |
 | virtualQ®                | http://virtualq.io                 | Stuttgart                                                                 |
+| Wolt                     | https://careers.wolt.com/          | Hybrid & Remote - Offices in Berlin, München, Köln, Hamburg and Frankfurt |
 | YAZIO                    | https://www.yazio.com              | Erfurt                                                                    |
 | Zweitag                  | https://www.zweitag.de             | Münster                                                                   |
