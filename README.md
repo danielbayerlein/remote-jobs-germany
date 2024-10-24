@@ -33,6 +33,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | Ecosia                   | https://ecosia.org                 | Berlin                                                                    |
 | Elastic                  | https://www.elastic.co/            | Berlin                                                                    |
 | emetriq GmbH             | https://www.emetriq.com/           | Hamburg                                                                   |
+| emnify                   | https://www.emnify.com             | Berlin / Würzburg                                                         |
 | ETECTURE                 | https://www.etecture.de            | Frankfurt a.M. / Karlsruhe / Düsseldorf                                   |
 | Eyeo                     | https://eyeo.com                   | Cologne / Berlin                                                          |
 | finstreet.               | https://www.finstreet.de           | Münster                                                                   |
