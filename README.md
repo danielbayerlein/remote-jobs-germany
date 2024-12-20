@@ -80,5 +80,6 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | Uberspace                | https://uberspace.de               | Mainz                                                                     |
 | virtualQ®                | http://virtualq.io                 | Stuttgart                                                                 |
 | Wolt                     | https://careers.wolt.com/          | Hybrid & Remote - Offices in Berlin, München, Köln, Hamburg and Frankfurt |
+| X-FAB                    | https://www.xfab.com/              | Hybrid & Remote - Erfurt, Dresden, Itzehoe                                |
 | YAZIO                    | https://www.yazio.com              | Erfurt                                                                    |
 | Zweitag                  | https://www.zweitag.de             | Münster                                                                   |
