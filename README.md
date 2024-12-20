@@ -52,7 +52,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | INNOQ                     | https://www.innoq.com/work         | Fully remote, office spaces in multiple cities                            |
 | Inpsyde                   | https://inpsyde.com                | Bergisch Gladbach                                                         |
 | Instana                   | https://www.instana.com            | Solingen                                                                  |
-| inter.link GmbH           | https://inter.link                 | Berlin                                                                    | 
+| inter.link GmbH           | https://inter.link                 | Berlin                                                                    |
 | Jaumo                     | http://careers.jaumo.com/          | Göppingen                                                                 |
 | Kellerkinder              | https://www.kellerkinder.de        | Hockenheim                                                                |
 | komoot                    | https://www.komoot.de              | Potsdam                                                                   |
@@ -81,5 +81,6 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | Uberspace                 | https://uberspace.de               | Mainz                                                                     |
 | virtualQ®                 | http://virtualq.io                 | Stuttgart                                                                 |
 | Wolt                      | https://careers.wolt.com/          | Hybrid & Remote - Offices in Berlin, München, Köln, Hamburg and Frankfurt |
+| X-FAB                     | https://www.xfab.com/              | Hybrid & Remote - Erfurt, Dresden, Itzehoe                                |
 | YAZIO                     | https://www.yazio.com              | Erfurt                                                                    |
 | Zweitag                   | https://www.zweitag.de             | Münster                                                                   |
