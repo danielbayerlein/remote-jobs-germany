@@ -48,7 +48,6 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | Hetzner Cloud GmbH        | https://www.hetzner-cloud.de/#jobs | Fully remote / On site Unterföhring                                       |
 | Implisense                | https://implisense.com             | Berlin                                                                    |
 | IMA Schelling Group       | https://www.imaschelling.com/      | Lübbecke                                                                  |
-| Infarm                    | https://www.infarm.com/            | Berlin                                                                    |
 | INNOQ                     | https://www.innoq.com/work         | Fully remote, office spaces in multiple cities                            |
 | Inpsyde                   | https://inpsyde.com                | Bergisch Gladbach                                                         |
 | Instana                   | https://www.instana.com            | Solingen                                                                  |
@@ -69,6 +68,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | porta-Unternehmensgruppe  | https://porta.de                   | Full Remote - Offices in Aschaffenburg, Berlin, Porta Westfalica, München |
 | real.digital              | https://www.real-digital.de        | Cologne / Darmstadt                                                       |
 | Riverty                   | https://www.riverty.com/de/        | Münster                                                                   |
+| Shopware                  | https://www.shopware.com/          | Full remote possible, offices in Schöpingen                               |
 | siticom                   | https://siticom.online             | Full Remote - On-Site in Weiterstadt, Köln, Dresden, Bruchsal, München    |
 | SkedGo                    | https://skedgo.com/                | Nuremberg                                                                 |
 | SocialHub                 | https://socialhub.io               | Ingolstadt                                                                |
