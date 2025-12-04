@@ -69,6 +69,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | SocialSweethearts         | https://socialsweethearts.de                          | Munich                                                                    |
 | SPORT1                    | http://www.sport1.de                                  | Ismaning (Munich)                                                         |
 | SuSE                      | http://www.suse.com                                   | Nuremberg                                                                 |
+| SysEleven                 | https://www.syseleven.de/                             | Berlin                                                                    |
 | TIMOCOM                   | https://www.timocom.com                               | Düsseldorf (Erkrath)                                                      |
 | Travello                  | https://www.travello.audio                            | Pinneberg                                                                 |
 | Travis CI                 | https://travis-ci.org                                 | Berlin                                                                    |
