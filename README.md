@@ -36,7 +36,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | ETECTURE                  | https://www.etecture.de                               | Frankfurt a.M. / Karlsruhe / Düsseldorf                                   |
 | Eyeo                      | https://eyeo.com                                      | Cologne / Berlin                                                          |
 | finstreet.                | https://www.finstreet.de                              | Münster                                                                   |
-| GetTechTalent             | http://www.gettechtalent.com                          | Berlin                                                                    |
+| GetTechTalent             | https://www.gettechtalent.com                         | Berlin                                                                    |
 | Giant Swarm               | https://giantswarm.io                                 | Cologne                                                                   |
 | Governikus                | https://governikus.de                                 | Full Remote, Offices in Bremen, Berlin, Cologne, Erfurt, Kempten          |
 | grandcentrix              | https://www.grandcentrix.net                          | Cologne / Dortmund                                                        |
@@ -46,7 +46,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | INNOQ                     | https://www.innoq.com/work                            | Fully remote, office spaces in multiple cities                            |
 | Inpsyde                   | https://inpsyde.com                                   | Bergisch Gladbach                                                         |
 | inter.link GmbH           | https://inter.link                                    | Berlin                                                                    |
-| Jaumo                     | http://careers.jaumo.com/                             | Göppingen                                                                 |
+| Jaumo                     | https://careers.jaumo.com/                            | Göppingen                                                                 |
 | Kaufland e-commerce       | https://kaufland-ecommerce.com/                       | Köln, Düsseldorf, Darmstadt, Berlin                                       |
 | komoot                    | https://www.komoot.de                                 | Potsdam                                                                   |
 | Lexware                   | https://jobs.haufegroup.com/search?company=Lexware    | Freiburg im Breisgau                                                      |
@@ -67,14 +67,14 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and [remote-
 | SkedGo                    | https://skedgo.com/                                   | Nuremberg                                                                 |
 | SocialHub                 | https://socialhub.io                                  | Ingolstadt                                                                |
 | SocialSweethearts         | https://socialsweethearts.de                          | Munich                                                                    |
-| SPORT1                    | http://www.sport1.de                                  | Ismaning (Munich)                                                         |
-| SuSE                      | http://www.suse.com                                   | Nuremberg                                                                 |
+| SPORT1                    | https://www.sport1.de                                 | Ismaning (Munich)                                                         |
+| SuSE                      | https://www.suse.com                                  | Nuremberg                                                                 |
 | SysEleven                 | https://www.syseleven.de/                             | Berlin                                                                    |
 | TIMOCOM                   | https://www.timocom.com                               | Düsseldorf (Erkrath)                                                      |
 | Travello                  | https://www.travello.audio                            | Pinneberg                                                                 |
 | Travis CI                 | https://travis-ci.org                                 | Berlin                                                                    |
 | Uberspace                 | https://uberspace.de                                  | Mainz                                                                     |
-| virtualQ®                 | http://virtualq.io                                    | Stuttgart                                                                 |
+| virtualQ®                 | https://virtualq.io                                   | Stuttgart                                                                 |
 | Wolt                      | https://careers.wolt.com/                             | Hybrid & Remote - Offices in Berlin, München, Köln, Hamburg and Frankfurt |
 | X-FAB                     | https://www.xfab.com/                                 | Hybrid & Remote - Erfurt, Dresden, Itzehoe                                |
 | YAZIO                     | https://www.yazio.com                                 | Erfurt                                                                    |
